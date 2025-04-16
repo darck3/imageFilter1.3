@@ -18,3 +18,5 @@ RoxygenNote: 7.3.2
 Imports: 
     magick
 Roxygen: list(markdown = TRUE)
+URL: https://github.com/darck3/imageFilter1.3
+BugReports: https://github.com/darck3/imageFilter1.3/issues
